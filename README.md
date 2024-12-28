@@ -12,6 +12,42 @@ energies of the COOH* and CHO* intermediates in MoS2 doped with Nb or Ti are mor
 intermediate. The high stability of the binding energy of the CO* intermediate in relation to other intermediates rep-
 resents a limitation for the catalytic efficiency of transition metal catalysts for the electroreduction of CO2 to products
 with higher added value. These results are important and promising, since MoS2-based materials are used as catalysts
-in several reactions, such as oxygen reduction, hydrodesulfurization and hydrogen evolution (HER)
+in several reactions, such as oxygen reduction, hydrodesulfurization and hydrogen evolution (HER).
+
+To cite this works, please use this as reference:
+
+```
+@Article{Vaiss2025,
+author ="Viviane Vaiss and Luciano T. Costa",
+title  ="Theoretical Systematic investigation as a Strategic Tool for the design of more efficient pure and doped MoS2 catalysts for CO2 Electroreduction",
+journal  ="Chemical Physics",
+year  ="2025",
+volume  ="",
+issue  ="",
+pages  ="",
+publisher  ="Elsevier",
+doi  ="",
+}
+```
+
+Although there are several works in the literature studying the potential of pure and doped MoS2 as electrocatalysts for
+the CO2 reduction reaction, no work was found that carried out a systematic study of the electronic properties, work func-
+tion and doping energy. Therefore, in this work, we systematically investigated the properties of pure and doped MoS2
+electrocatalysts from DFT calculations with periodic boundary conditions. The aim is to assist in the planning of more
+efficient catalysts used in the CO2 electroreduction reaction. To this purpose, the work function, Bader charges, projected
+density of states (PDOS) and the doping energy of all structures obtained by doping in MoS2 on the molybdenum and
+sulfur edges were calculated. In addition, the electronic energies of the formation of the intermediates COOH*, CO*, and
+CHO* were calculated for the materials that obtained lower work function values.
 
 # Table of Contents, Graphical Abstracts
+
+<img
+  src="./TOC.png"
+  alt="Alt text"
+  title="Graphical abstract"
+  style="display: inline-block; margin: 1.5 auto; max-width: 300px">
+
+### Contents
+
+Two folders are available, **input** and **optimized-geometries**. 
+
